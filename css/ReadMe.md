@@ -1,4 +1,4 @@
-# This is some CSS exercise based on the FreeCodeCamp From day 1 to day n
+# This is some CSS exercise based on the FreeCodeCamp <br> From day 1 to day n
 ## Notes here:
 ### day1:
 * adding time to the paragraph and time input box
