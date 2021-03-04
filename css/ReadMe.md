@@ -1,6 +1,6 @@
 This is some CSS exercise based on the FreeCodeCamp
-\<br>
+<br>
 From day 1 to day...
-\<br>
+<br>
 My final project Tribute page could be found here
 https://codepen.io/ygnauh/pen/yLVEYev
