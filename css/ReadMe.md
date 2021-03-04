@@ -5,7 +5,7 @@
 * adding time to the paragraph and time input box
 * animation: move around, disappear
 * accesskey feature: press alt for GChrome to access button/link
-* tabindex: use tab to come to
+* tabindex: use tab to come to the part following index
 
 Responsive Part:
 
