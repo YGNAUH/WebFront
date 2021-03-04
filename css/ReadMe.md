@@ -1,9 +1,6 @@
-# This is some CSS exercise based on the FreeCodeCamp
-<br>
-From day 1 to day #n
-<br>
+# This is some CSS exercise based on the FreeCodeCamp From day 1 to day n
 ## Notes here:
-#### day1:
+### day1:
 * adding time to the paragraph and time input box
 * animation: move around, disappear
 
