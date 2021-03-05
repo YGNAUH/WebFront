@@ -20,5 +20,10 @@ Here is the flex part:
 * justify-content: to change the location of the certain item
 * flex: flex-grow flex-shrink flex basis
 * order: define the order of the parts
+
+### day2:
+* Here is a useful color page: https://nipponcolors.com/
+* To change the space between two bullet paragraph, margin could be used.
+
 My final project Tribute page could be found here
 https://codepen.io/ygnauh/pen/yLVEYev
