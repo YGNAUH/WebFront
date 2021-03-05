@@ -12,4 +12,14 @@
 * if(){} ... (no need to write else)
 * &&
 * || or operator
-* if(){} else if(){} else{} 
+* if(){} else if(){} else{}
+* swich(value){
+  case "===": ; break;
+* switch(){
+  case 1:
+  case 2:
+  case 3:
+    statement;
+    break;
+}  
+}  
