@@ -11,3 +11,5 @@
 * lables:>=, >, <, <=
 * if(){} ... (no need to write else)
 * &&
+* || or operator
+* if(){} else if(){} else{} 
