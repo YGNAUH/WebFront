@@ -21,3 +21,7 @@
   case 3:<br>
     statement;<br>
     break;}  
+* keywork undefined
+* the program exists after return
+* the swtich function could accept arrays
+    
