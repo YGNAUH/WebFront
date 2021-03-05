@@ -13,13 +13,11 @@
 * &&
 * || or operator
 * if(){} else if(){} else{}
-* swich(value){
-  case "===": ; break;
-* switch(){
-  case 1:
-  case 2:
-  case 3:
-    statement;
-    break;
-}  
-}  
+* swich(value){ <br>
+  case "===": ; break;}
+* switch(){<br>
+  case 1:<br>
+  case 2:<br>
+  case 3:<br>
+    statement;<br>
+    break;}  
