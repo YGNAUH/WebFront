@@ -24,4 +24,6 @@
 * keywork undefined
 * the program exists after return
 * the swtich function could accept arrays
-    
+* the var contains different features <br>
+var var = { <br>
+  xx:xx,xx:xx,xx:xx };
