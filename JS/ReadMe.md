@@ -8,6 +8,6 @@
 * equal == and strict equal ===
 * typeof
 * notequal != and strict not equal !==
-* >, >=, <, <=
+* >=, >, <, <=
 * if(){} ... (no need to write else)
 * &&
