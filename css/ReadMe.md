@@ -24,6 +24,9 @@ Here is the flex part:
 ### day2:
 * Here is a useful color page: https://nipponcolors.com/
 * To change the space between two bullet paragraph, margin could be used.
+* margin: top-right-bottom-left
+* margin form: t-rl-b, tb-rl
+* padding: instead of non-color as margin, padding has a color
 
 My final project Tribute page could be found here
 https://codepen.io/ygnauh/pen/yLVEYev
