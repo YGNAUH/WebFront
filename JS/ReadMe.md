@@ -27,3 +27,16 @@
 * the var contains different features <br>
 var var = { <br>
   xx:xx,xx:xx,xx:xx };
+### Day2:
+* object.feature; object[feature]
+* delete objecct.feature ; directly write a new feature and it will add
+* To convert a switch function, object[feature] could be used as var."val" is not acceptable
+* dot could not accept space
+* []is used to search the string feature of the object, dot notation. is used to set property.
+* empty space is not equal to null
+* while(){}
+* donot define variable in a loop unless it needs to refresh in every loop;
+* array arr[i][j]
+* do{}while()
+* Recursion: instead of using loop, try to use fcn (n-1) fcn;
+   
