@@ -43,3 +43,9 @@ var var = { <br>
 * Math.random(); [0,1)
 * Math.floor() returns to integer
 * parseInt(string,index) to give root of string.
+* let: which is not global
+* const: which is not changable, only change is ok by setting obj[i] = ...;
+* Object.freeze(obj) which unables mutation
+* function = () =>
+* new Date()
+* concat()
