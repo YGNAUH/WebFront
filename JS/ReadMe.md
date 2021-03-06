@@ -39,4 +39,7 @@ var var = { <br>
 * array arr[i][j]
 * do{}while()
 * Recursion: instead of using loop, try to use fcn (n-1) fcn;
-   
+* hasOwnProperty();
+* Math.random(); [0,1)
+* Math.floor() returns to integer
+* parseInt(string,index) to give root of string.
