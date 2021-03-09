@@ -48,4 +48,9 @@ var var = { <br>
 * Object.freeze(obj) which unables mutation
 * function = () =>
 * new Date()
-* concat()
+* concat() merge two arrays
+
+### Day3:
+* spread operator [...arr]
+* deconstructing const{prop1:str1,prop2:str2} = obj;
+* arrayname.slice(start,end);
