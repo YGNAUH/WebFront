@@ -54,3 +54,27 @@ var var = { <br>
 * spread operator [...arr]
 * deconstructing const{prop1:str1,prop2:str2} = obj;
 * arrayname.slice(start,end);
+
+### Day 4:
+* array: push
+* concise object writing: const obj(pr1,pr2,pr3) =>{return {prop1,prop2,prop3};}
+* concise fcn: FcnName(){}
+* keyword new: instantiate an object
+* syntax class to replace constructor function: <br>
+constructor fcn: var obj = function(target){this.target = target;} <br>
+var newobj = new obj("insertobj")<br>
+class syntax:<br>
+class obj{<br>
+  constructor(input){<br>
+    this.prop = input; <br>
+  } } <br>
+  const newobj = new obj("insertobj");
+* keyword this: (input) this.prop = input; set property
+* keyword get & set <br>
+  get fcn(){ <br>
+    return this.prop <br>
+  }<br>
+  set fcn(updateprop){<br>
+    this.prop = updateprop<br>
+  }<br>
+  obj.fcn will call getter and setter
