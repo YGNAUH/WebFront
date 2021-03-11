@@ -78,3 +78,8 @@ class obj{<br>
     this.prop = updateprop<br>
   }<br>
   obj.fcn will call getter and setter
+* share cide among JS files: <script type = "module" src = "filename.js"></script>
+* export{a,b}
+* import{a,b} from './fn.js'; ./means te current folder
+* import * as name from "./fn.js";
+* import a from ".js"; notice: a is not in {} and it means import default function and a is the name defined here
