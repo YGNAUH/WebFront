@@ -1,0 +1,59 @@
+<view class="page-section">
+  <view class = "header">
+    <view class = "top" >
+       <view class = "city">{{City}}</view>
+      <view class = "button">  <button class = "ccbutton" onTap="chooseCity">城市</button></view>
+    </view>
+    <view class = "topm">
+      <view class="tmp">{{tem}}°</view>
+      <image mode="widthFix" class="image" src="https://moyv.top/wechat/images/weather/{{img}}.png">
+      </image>
+    </view>
+    <view class="intro">
+      <view class = "wind">{{wind}}{{wind_sc}}级</view>
+      <view class = "con">{{con}}</view>
+    </view>
+  </view>
+
+  <view class ="container">
+    <view class ="title3">3 days详细天气预报</view>
+
+    <view class ="images3">
+      <image mode="widthFix" class="i1" src="https://moyv.top/wechat/images/weather/{{i1}}.png"></image>
+      <image mode="widthFix" class="i2" src="https://moyv.top/wechat/images/weather/{{i2}}.png"></image>
+      <image mode="widthFix" class="i3" src="https://moyv.top/wechat/images/weather/{{i3}}.png"></image>
+    </view>
+
+    <view class = "text">
+      <view class = "t0">
+        <text class = "cond">
+          {{wc0[0]}} \n </text>
+        <text class = "tem">
+          {{wc0[2]}}° ~ {{wc0[1]}}°
+        </text>
+        <text class = "wi"> \n{{wc0[3]}}</text>
+        <text  class = "ws">\n{{wc0[4]}}级</text>
+        </view>
+
+      <view class = "t1">
+        <text class = "cond">
+          {{wc1[0]}} \n </text>
+        <text class = "tem">
+         {{wc1[2]}}° ~ {{wc1[1]}}°</text>
+        <text class ="wi"> \n{{wc1[3]}}</text>
+         <text  class = "ws">\n{{wc1[4]}}级</text>
+      </view>
+
+      <view class = "t2">
+        <text class = "cond">
+          {{wc2[0]}} \n </text>
+        <text class = "tem">
+        {{wc2[2]}}° ~ {{wc2[1]}}° </text>
+        <text class ="wi"> \n{{wc2[3]}}</text>
+         <text  class = "ws">\n{{wc2[4]}}级</text>
+      </view>
+    </view>
+
+  </view>
+
+</view>

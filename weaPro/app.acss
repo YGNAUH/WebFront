@@ -1,0 +1,144 @@
+page {
+  background:white;
+  width:100%;
+}
+.header {
+  background-color:#64c8fa;
+  height: 400rpx;
+  padding-top: 35rpx;
+}
+.top{
+  display:flex;
+  justify-content: space-between;
+  align-content:center;
+  align-items: center;
+}
+
+.ccbutton{
+  border-radius: 20rpx;
+  width:200rpx;
+  font-weight:800;
+  margin-top: 20rpx;
+  font-family: Cambria;
+  color:#f7f7f7;
+  background-color: rgba(0, 0, 0, 0.1);
+  text-align: center;
+  height:50rpx;
+  line-height: 50rpx;
+  margin-right: 90rpx;
+  font-size: 100%;
+}
+.topm{
+  display:flex;
+  justify-content: space-between;
+  align-content:center;
+  align-items: center;
+}
+.city{
+  margin-top: 20rpx;
+  text-align: center;
+  margin-left:32px;
+  font-size: 50rpx;
+  font-family: Cambria,
+}
+.image{
+  width: 200rpx;
+  margin-right: 120rpx;
+  margin-top: 20rpx;
+}
+.tmp {
+  margin-left: 50rpx;
+  display: inline-block;
+  font-size: 180rpx;
+  color: black;
+}
+.intro{
+  display:flex;
+  justify-content: space-between;
+  align-content:center;
+  align-items: center;
+  margin-top: 20rpx
+}
+.wind{
+  margin-left: 100rpx;
+}
+.con{
+  margin-right: 225rpx; 
+}
+.container{
+  margin-top: 32rpx;
+  margin-left: 5%;
+  width: 90%;
+  height:200px;
+  background-color: white;
+  border-radius: 18rpx;
+  box-shadow: 0.1rem 0.1rem 0.5rem rgba(0, 0, 0, 0.15);
+}
+.title3{
+  font-weight: 800;
+  text-align: center;
+}
+.images3{
+  display:flex;
+  justify-content: space-between;
+  align-content:center;
+  align-items: center;
+}
+.i1{
+  width: 130rpx;
+  margin-left: 50rpx;
+  margin-top: 20rpx;
+  height:130rpx;
+}
+.i2{
+  width: 130rpx;
+  scroll-margin-left: 70rpx;
+  margin-top: 20rpx;
+  height:130rpx;
+}
+.i3{
+  width: 130rpx;
+  margin-right: 50rpx;
+  margin-top: 20rpx;
+  height:130rpx;
+}
+.text{
+  display: flex;
+  justify-content: space-between;
+  width:100%;
+  text-align: center;
+  font-size: 28rpx;
+}
+.t0{
+  width: 140rpx;
+  margin-left: 50rpx;
+  margin-top: 20rpx;
+  
+}
+.t1{
+ width: 140rpx;
+  scroll-margin-left: 50rpx;
+  margin-top: 20rpx;  
+}
+.t2{
+  width: 140rpx;
+  margin-right: 50rpx;
+  margin-top: 20rpx;
+}  
+.tem{
+  font-size:25rpx;
+  margin-right:10rpx;
+}
+.cond{
+  font-weight: 550;
+  text-align: left;
+}
+.wi{
+  font-size: 28rpx;
+  color:#027aff;
+  font-weight: 500;
+}
+.ws{
+   font-size: 25rpx;
+   color:gray;
+}

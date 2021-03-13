@@ -28,5 +28,12 @@ Here is the flex part:
 * margin form: t-rl-b, tb-rl
 * padding: instead of non-color as margin, padding has a color
 
+
+###0313：
+* in the button: line-height and height keeps the same to ensure the text is in the center up and down
+* The left component should be written first
+
+
 My final project Tribute page could be found here
 https://codepen.io/ygnauh/pen/yLVEYev
+There is also an Ali miniproject uploaded in my Github
